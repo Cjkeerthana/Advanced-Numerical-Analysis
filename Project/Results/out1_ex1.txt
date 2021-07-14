@@ -1,0 +1,362 @@
+Parameter: smoothing iterations = 1 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 8.926228e-09;	ITER= 8;	CPU= 2.90
+V cycle:		RELRES= 8.926228e-09;	ITER= 8;	CPU= 3.48
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 2.42
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 9.476600e-09;	ITER= 8;	CPU= 4.38
+V cycle:		RELRES= 9.476600e-09;	ITER= 8;	CPU= 6.83
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 4.99
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 9.739910e-09;	ITER= 8;	CPU= 12.39
+V cycle:		RELRES= 9.739910e-09;	ITER= 8;	CPU= 27.22
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 16.50
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 9.906140e-09;	ITER= 8;	CPU= 30.30
+V cycle:		RELRES= 9.906140e-09;	ITER= 8;	CPU= 51.15
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 36.87
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 1.077128e-09;	ITER= 9;	CPU= 59.11
+V cycle:		RELRES= 1.077128e-09;	ITER= 9;	CPU= 240.86
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 70.06
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 1 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 3 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 6.378956e-10;	ITER= 5;	CPU= 0.69
+V cycle:		RELRES= 6.378956e-10;	ITER= 5;	CPU= 0.67
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.59
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 5.930143e-10;	ITER= 5;	CPU= 3.34
+V cycle:		RELRES= 5.930143e-10;	ITER= 5;	CPU= 4.64
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 4.95
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 5.712021e-10;	ITER= 5;	CPU= 9.40
+V cycle:		RELRES= 5.712021e-10;	ITER= 5;	CPU= 15.05
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 15.82
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 5.574348e-10;	ITER= 5;	CPU= 22.14
+V cycle:		RELRES= 5.574348e-10;	ITER= 5;	CPU= 27.95
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 37.07
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 5.476089e-10;	ITER= 5;	CPU= 39.38
+V cycle:		RELRES= 5.476089e-10;	ITER= 5;	CPU= 76.31
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 64.64
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 3 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 5 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 2.242016e-09;	ITER= 4;	CPU= 0.37
+V cycle:		RELRES= 2.242016e-09;	ITER= 4;	CPU= 0.37
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.47
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 2.127870e-09;	ITER= 4;	CPU= 1.98
+V cycle:		RELRES= 2.127870e-09;	ITER= 4;	CPU= 2.27
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 4.15
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 2.065692e-09;	ITER= 4;	CPU= 5.03
+V cycle:		RELRES= 2.065692e-09;	ITER= 4;	CPU= 6.13
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 13.94
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 2.024263e-09;	ITER= 4;	CPU= 19.74
+V cycle:		RELRES= 2.024264e-09;	ITER= 4;	CPU= 20.87
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 31.95
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 1.993679e-09;	ITER= 4;	CPU= 34.86
+V cycle:		RELRES= 1.993680e-09;	ITER= 4;	CPU= 50.70
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 58.52
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 5 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 7 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 4.405841e-10;	ITER= 4;	CPU= 0.38
+V cycle:		RELRES= 4.405841e-10;	ITER= 4;	CPU= 0.39
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.44
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 4.200929e-10;	ITER= 4;	CPU= 1.99
+V cycle:		RELRES= 4.200930e-10;	ITER= 4;	CPU= 2.37
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 3.56
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 4.083336e-10;	ITER= 4;	CPU= 5.50
+V cycle:		RELRES= 4.083336e-10;	ITER= 4;	CPU= 6.42
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 11.74
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 4.003541e-10;	ITER= 4;	CPU= 13.44
+V cycle:		RELRES= 4.003542e-10;	ITER= 4;	CPU= 12.84
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 29.50
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 3.944063e-10;	ITER= 4;	CPU= 25.56
+V cycle:		RELRES= 3.944063e-10;	ITER= 4;	CPU= 30.35
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 55.22
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 7 completed 
+************************************
+************************************
+
+
+Parameter: smoothing iterations = 9 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 1.295711e-10;	ITER= 4;	CPU= 0.40
+V cycle:		RELRES= 1.295711e-10;	ITER= 4;	CPU= 0.41
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.42
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 1.239793e-10;	ITER= 4;	CPU= 2.18
+V cycle:		RELRES= 1.239793e-10;	ITER= 4;	CPU= 2.87
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 3.73
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 1.206194e-10;	ITER= 4;	CPU= 5.88
+V cycle:		RELRES= 1.206194e-10;	ITER= 4;	CPU= 14.32
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 14.36
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 1.183062e-10;	ITER= 4;	CPU= 15.31
+V cycle:		RELRES= 1.183062e-10;	ITER= 4;	CPU= 14.89
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 30.43
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 1.165694e-10;	ITER= 4;	CPU= 32.07
+V cycle:		RELRES= 1.165694e-10;	ITER= 4;	CPU= 28.95
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 55.71
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 9 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 11 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 6.793651e-09;	ITER= 3;	CPU= 0.32
+V cycle:		RELRES= 6.793651e-09;	ITER= 3;	CPU= 0.37
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.45
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 6.492068e-09;	ITER= 3;	CPU= 1.87
+V cycle:		RELRES= 6.492069e-09;	ITER= 3;	CPU= 2.34
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 3.55
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 6.314326e-09;	ITER= 3;	CPU= 9.68
+V cycle:		RELRES= 6.314327e-09;	ITER= 3;	CPU= 5.88
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 13.00
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 6.192558e-09;	ITER= 3;	CPU= 12.84
+V cycle:		RELRES= 6.192558e-09;	ITER= 3;	CPU= 20.89
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 29.64
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 6.101318e-09;	ITER= 3;	CPU= 23.45
+V cycle:		RELRES= 6.101319e-09;	ITER= 3;	CPU= 27.04
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 56.51
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 11 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 13 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 3.515836e-09;	ITER= 3;	CPU= 0.52
+V cycle:		RELRES= 3.515836e-09;	ITER= 3;	CPU= 0.49
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.55
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 3.365283e-09;	ITER= 3;	CPU= 6.07
+V cycle:		RELRES= 3.365283e-09;	ITER= 3;	CPU= 2.34
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 3.88
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 3.274205e-09;	ITER= 3;	CPU= 6.01
+V cycle:		RELRES= 3.274205e-09;	ITER= 3;	CPU= 6.00
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 13.08
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 3.211340e-09;	ITER= 3;	CPU= 12.84
+V cycle:		RELRES= 3.211341e-09;	ITER= 3;	CPU= 11.78
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 28.88
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 3.164070e-09;	ITER= 3;	CPU= 22.64
+V cycle:		RELRES= 3.164070e-09;	ITER= 3;	CPU= 26.16
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 54.32
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 13 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 15 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 1.997230e-09;	ITER= 3;	CPU= 0.36
+V cycle:		RELRES= 1.997230e-09;	ITER= 3;	CPU= 0.38
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.42
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 1.914773e-09;	ITER= 3;	CPU= 6.48
+V cycle:		RELRES= 1.914773e-09;	ITER= 3;	CPU= 2.41
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 9.16
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 1.863572e-09;	ITER= 3;	CPU= 6.58
+V cycle:		RELRES= 1.863573e-09;	ITER= 3;	CPU= 9.48
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 14.62
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 1.827979e-09;	ITER= 3;	CPU= 20.64
+V cycle:		RELRES= 1.827979e-09;	ITER= 3;	CPU= 21.23
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 39.32
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 1.801125e-09;	ITER= 3;	CPU= 35.25
+V cycle:		RELRES= 1.801125e-09;	ITER= 3;	CPU= 42.16
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 74.81
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 15 completed 
+************************************
+************************************
+
+
+
+Parameter: smoothing iterations = 20 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 6.386624e-10;	ITER= 3;	CPU= 0.45
+V cycle:		RELRES= 6.386624e-10;	ITER= 3;	CPU= 0.44
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.45
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 6.146741e-10;	ITER= 3;	CPU= 2.11
+V cycle:		RELRES= 6.146743e-10;	ITER= 3;	CPU= 6.64
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 3.53
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 5.987490e-10;	ITER= 3;	CPU= 6.01
+V cycle:		RELRES= 5.987492e-10;	ITER= 3;	CPU= 6.51
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 11.44
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 5.874863e-10;	ITER= 3;	CPU= 14.59
+V cycle:		RELRES= 5.874865e-10;	ITER= 3;	CPU= 12.91
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 21.90
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 5.789223e-10;	ITER= 3;	CPU= 19.80
+V cycle:		RELRES= 5.789225e-10;	ITER= 3;	CPU= 20.53
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 38.17
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 20 completed 
+************************************
+************************************
+
+Parameter: smoothing iterations = 22 
+
+Parameter: nx = 200 
+Two Grid cycle:	RELRES= 4.373468e-10;	ITER= 3;	CPU= 0.37
+V cycle:		RELRES= 4.373468e-10;	ITER= 3;	CPU= 0.48
+PCG:			RELRES= 9.395066e-09;	ITER= 159;	CPU= 0.43
+solution for nx = 200 completed 
+************************************
+Parameter: nx = 400 
+Two Grid cycle:	RELRES= 4.215556e-10;	ITER= 3;	CPU= 2.13
+V cycle:		RELRES= 4.215557e-10;	ITER= 3;	CPU= 2.34
+PCG:			RELRES= 9.849825e-09;	ITER= 282;	CPU= 2.90
+solution for nx = 400 completed 
+************************************
+Parameter: nx = 600 
+Two Grid cycle:	RELRES= 4.107752e-10;	ITER= 3;	CPU= 5.04
+V cycle:		RELRES= 4.107753e-10;	ITER= 3;	CPU= 6.03
+PCG:			RELRES= 9.786648e-09;	ITER= 408;	CPU= 8.75
+solution for nx = 600 completed 
+************************************
+Parameter: nx = 800 
+Two Grid cycle:	RELRES= 4.030996e-10;	ITER= 3;	CPU= 11.40
+V cycle:		RELRES= 4.030997e-10;	ITER= 3;	CPU= 11.71
+PCG:			RELRES= 9.837565e-09;	ITER= 533;	CPU= 20.13
+solution for nx = 800 completed 
+************************************
+Parameter: nx = 1000 
+Two Grid cycle:	RELRES= 3.972456e-10;	ITER= 3;	CPU= 19.68
+V cycle:		RELRES= 3.972457e-10;	ITER= 3;	CPU= 21.74
+PCG:			RELRES= 9.684122e-09;	ITER= 652;	CPU= 39.26
+solution for nx = 1000 completed 
+************************************
+solution for smoothing iterations = 22 completed 
+************************************
+************************************
